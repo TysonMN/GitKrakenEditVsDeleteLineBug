@@ -17,10 +17,10 @@ Here is a screenshot after step 5.
 <img src="https://github.com/TysonMN/GitKrakenEditVsDeleteLineBug/blob/main/1_GitKraken_merge_start.png"/>
 
 Here is a screenshot after step 5 and after selecting `B`.
-<img src="https://raw.githubusercontent.com/TysonMN/GitKrakenEditVsDeleteLineBug/blob/main/2_GitKraken_merge_resolved.png"/>
+<img src="https://github.com/TysonMN/GitKrakenEditVsDeleteLineBug/blob/main/2_GitKraken_merge_resolved.png"/>
 
 Here is a screenshot after the merege is complete.  It shows the correct line numbers in the diff.
-<img src="https://raw.githubusercontent.com/TysonMN/GitKrakenEditVsDeleteLineBug/blob/main/3_GitKraken_resulting_commit_diff.png"/>
+<img src="https://github.com/TysonMN/GitKrakenEditVsDeleteLineBug/blob/main/3_GitKraken_resulting_commit_diff.png"/>
 
 Also, for what it is worth, here is the file contents displayed by Visual Studio Code after the merge is complete.
-<img src="https://raw.githubusercontent.com/TysonMN/GitKrakenEditVsDeleteLineBug/blob/main/4_merged_file.png"/>
+<img src="https://github.com/TysonMN/GitKrakenEditVsDeleteLineBug/blob/main/4_merged_file.png"/>
